@@ -1,6 +1,6 @@
 - 👋 Hi, I’m gregdevjs
 - 👀 I’m interested in front end development 
-- 🌱 I’m currently learning Angular 
+- 🌱 I’m currently learning Software Eengineering @ ALX 
 - 💞️ I’m looking to collaborate on front end development projects 
 - 📫 How to reach me: iheanemegregory9@gmail.com
 
