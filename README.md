@@ -10,7 +10,7 @@ I'm a passionate Angular Front End Developer with a strong grasp of front-end te
 * 🖥️  See my portfolio at [Greg's Column](http://gregscolumn.com)
 * ✉️  You can contact me at [greg@gregscolumn.com](mailto:greg@gregscolumn.com)
 * 🚀  I'm currently working on [Mini Ledger](http://miniledger.com.ng)
-* 🧠  I'm learning Nestjs
+* 🧠  I'm learning Vue JS
 * 🤝  I'm open to collaborating on Angular SaaS Projects
 * ⚡  I'm the Angular Front End Developer behind 'Greg's Column,' where I code with a sense of humor as quirky as CSS itself. Let's bring some web magic to your projects!
 
